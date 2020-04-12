@@ -1,2 +1,2 @@
 # AirTikectReservationChecker
-This tool is to check the reservation of jal air ticket using selenium.
+This tool is to check the flight reservation using selenium.
