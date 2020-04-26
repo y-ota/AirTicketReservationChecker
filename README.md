@@ -8,7 +8,7 @@ This tool is to check the flight reservation using selenium.
 * Chromedriver
 * Simple Java Mail
 
-## Install
+## Setup & Run
 1. Change the following code.
 ```
 driver.findElement(By.cssSelector(Mappings.MEMBER_NO)).sendKeys("your id");
