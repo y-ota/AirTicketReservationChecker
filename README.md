@@ -26,4 +26,4 @@ driver.findElement(By.cssSelector(Mappings.ACCESS_CD)).sendKeys("your pass");
 4. Screenshot will be taken automatically and e-mail you.
 
 ## Licnense
-[MIT License](https://github.com/y-ota/AirTicketReservationChecker/blob/master/README.md)
+[MIT License](https://github.com/y-ota/AirTicketReservationChecker/blob/master/LICENSE)
