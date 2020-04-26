@@ -21,7 +21,7 @@ driver.findElement(By.cssSelector(Mappings.ACCESS_CD)).sendKeys("your pass");
 
 2. Build with Maven.
 
-3. `java AirTicketReservationChecker`
+3. Run `java AirTicketReservationChecker`
 
 4. Screenshot will be taken automatically and e-mail you.
 
